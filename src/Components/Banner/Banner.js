@@ -29,7 +29,7 @@ const Banner = () => {
                           marginBottom: 15,
                           fontFamily:"Montserrat",
                   }}>
-                      Crypto Hunter
+                      Crypto Explorer
                   </Typography>
 
                   <Typography style={{
